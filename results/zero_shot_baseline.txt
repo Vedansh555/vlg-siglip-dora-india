@@ -1,0 +1,5 @@
+Zero-Shot CLIP Baseline Results
+------------------------------
+Top-1 Accuracy: XX.X%
+Top-5 Accuracy: YY.Y%
+Date: [today]
