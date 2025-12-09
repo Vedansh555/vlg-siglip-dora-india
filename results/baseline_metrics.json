@@ -1,0 +1,13 @@
+{
+  "experiment_id": "baseline_siglip_zero_shot",
+  "dataset": "Indi-Bench (Subset A)",
+  "metrics": {
+    "top1_accuracy": 0.64,
+    "top5_accuracy": 0.82,
+    "cultural_confusion_rate": 0.45
+  },
+  "failure_modes": [
+    {"true_label": "Kurta", "predicted": "Tunic", "confidence": 0.92},
+    {"true_label": "Idli", "predicted": "Dough", "confidence": 0.88}
+  ]
+}
