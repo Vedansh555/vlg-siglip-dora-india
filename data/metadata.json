@@ -1,0 +1,23 @@
+[
+  {
+    "image_id": "test_saree.jpg",
+    "true_label": "Saree",
+    "confusing_label": "Gown",
+    "difficulty": "Medium",
+    "cultural_context": "Draped garment, typically 6-9 yards"
+  },
+  {
+    "image_id": "test_sherwani.jpg",
+    "true_label": "Sherwani",
+    "confusing_label": "Trench Coat",
+    "difficulty": "Hard",
+    "cultural_context": "Men's coat-like garment worn for weddings"
+  },
+  {
+    "image_id": "test_idli.jpg",
+    "true_label": "Idli",
+    "confusing_label": "Unbaked Dough",
+    "difficulty": "Hard",
+    "cultural_context": "Steamed rice cake, South Indian breakfast"
+  }
+]
